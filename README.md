@@ -68,7 +68,8 @@ Please make sure the following before executing the scripts
 1. python 3.8
 2. Install all modules listed in "requirements.txt" (using the command pip install -r requirements.txt).
 3. Execute ```add_zip_codes.py``` to add retrieve zip codes for pickup and dropoff locations 
-   (this can take significant time, if you try with full data; so use small set of data, i.e., filter by date)
+   (this can take significant time (900 minutes for full data, with 25k trip requests),
+   if you try with full data; so use small set of data, i.e., filter by date)
 4. Execute ```generate_travel_matrices.py``` to add travel time matrices and travel distance matrices
    (this can take significant time, if you try with full data; so use small set of data, i.e., filter by date)
 
