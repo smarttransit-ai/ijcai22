@@ -41,7 +41,7 @@ contains implementation of,
 
 ####  Wrapper for other existing baselines
 1. [Google or-tools](https://developers.google.com/optimization)
-2. [VRoom](http://vroom-project.org/) .
+2. [VRoom](http://vroom-project.org/)
 
 [base](base): contains the custom implementation to solve the para-transit optimization problem.
 
